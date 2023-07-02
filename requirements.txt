@@ -1,0 +1,9 @@
+requests
+colorama
+pyunpack
+patool
+dnspython
+ipaddress
+python-masscan
+python-nmap
+pythonping
