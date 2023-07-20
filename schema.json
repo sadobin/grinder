@@ -1,0 +1,21 @@
+{
+    "TARGET": {
+        "IPs": {
+            "vhosts": []
+        },
+        "dns-queries": {
+            "A": "",
+            "cname": "",
+            "...": "..."
+        },
+        "tlds": [],
+        "known-urls": [],
+        "search-engines": {
+            "censys": {},
+            "shodan": {},
+            "...": "..."
+        },
+        "brute-force": [],
+        "subdomains":[]
+    }
+}
